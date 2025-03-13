@@ -1,0 +1,58 @@
+.q {
+    text-align: center;
+    color: darkred;
+    background-color: lightgrey;
+    font-size: 20px;
+    padding: auto;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px ;
+}
+
+nav{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;   
+    border: 2px solid black;
+    border-radius: 15px ;
+
+}
+html {
+    background-color: lightblue;
+}
+
+.w{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px ;
+}
+
+footer{
+    color: lightslategray;
+}
+
+.e {
+    text-align: center;
+    color: darkred;
+    background-color: lightgrey;
+    font-size: 20px;
+    padding: auto;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px ;
+}
+
+.rammstein{
+    text-align: center;
+    color: darkred;
+    background-color: lightgrey;
+    font-size: 20px;
+    padding: auto;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px ;
+}
